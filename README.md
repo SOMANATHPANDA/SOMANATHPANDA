@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somanath Panda</h1>
 <h3 align="center">A MERN stack developer from India</h3>
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAe/programmer.png" alt="gif" width="400px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somanathpanda&label=Profile%20views&color=0e75b6&style=flat" alt="somanathpanda" /> 
 
