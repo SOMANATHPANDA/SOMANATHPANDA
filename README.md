@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **PipeLines**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
